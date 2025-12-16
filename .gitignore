@@ -1,0 +1,81 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Machine Learning Models (too large for git)
+*.pkl
+*.h5
+*.hdf5
+*.joblib
+*.model
+*.pb
+
+# Data files (too large for git)
+*.csv
+*.xlsx
+*.xls
+*.parquet
+*.feather
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.rar
+
+# Generated files
+prediction_history.csv
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Streamlit
+.streamlit/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Saved models directory
+saved_models/
+
+# Environment variables
+.env
+.env.local
+
+# OS
+Thumbs.db
+desktop.ini
+
+# Local setup and guide files (not for repository)
+GIT_SETUP_GUIDE.md
+SETUP_GITHUB.md
+PROJECT.md
+
