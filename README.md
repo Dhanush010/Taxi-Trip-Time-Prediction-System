@@ -28,7 +28,7 @@ This project solves the critical problem of predicting taxi trip durations using
 - Makes accurate predictions - Provides reliable time estimates for new trips
 - Interactive web interface - Easy-to-use dashboard for real-time predictions
 
-![Prediction Interface](images/prediction-interface.png)
+![Prediction Interface](images/Prediction Interface.png)
 
 ### Key Benefits
 
@@ -62,8 +62,8 @@ This project solves the critical problem of predicting taxi trip durations using
 - Trip time histograms
 - Sample data exploration
 
-![Data Overview](images/data-overview.png)
-![Sample Data](images/sample-data.png)
+![Data Overview](images/Data Overview.png)
+![Sample Data](images/Sample Data.png)
 
 **Prediction History**
 - Complete prediction tracking
@@ -217,7 +217,7 @@ Subsequent runs will be much faster as the model is loaded from disk.
 
 ## Model Details
 
-![Model Information](images/model-information.png)
+![Model Information](images/Model Information.png)
 
 ### Performance Metrics
 
@@ -262,10 +262,10 @@ Taxi-Trip-Time-Prediction-System/
 ├── Taxi Trip Time Prediction.ipynb # Jupyter notebook (optional)
 │
 ├── images/                         # Screenshots and visualizations
-│   ├── prediction-interface.png
-│   ├── model-information.png
-│   ├── data-overview.png
-│   └── sample-data.png
+│   ├── Prediction Interface.png
+│   ├── Model Information.png
+│   ├── Data Overview.png
+│   └── Sample Data.png
 │
 ├── train(1).csv                    # Training dataset (not in repo - too large)
 ├── winnig_model_random_forest.pkl  # Trained model (generated)
