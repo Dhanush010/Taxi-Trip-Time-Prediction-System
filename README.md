@@ -28,7 +28,7 @@ This project solves the critical problem of predicting taxi trip durations using
 - Makes accurate predictions - Provides reliable time estimates for new trips
 - Interactive web interface - Easy-to-use dashboard for real-time predictions
 
-![Prediction Interface](images/Prediction Interface.png)
+![Prediction Interface](images/Prediction%20Interface.png)
 
 ### Key Benefits
 
@@ -62,8 +62,8 @@ This project solves the critical problem of predicting taxi trip durations using
 - Trip time histograms
 - Sample data exploration
 
-![Data Overview](images/Data Overview.png)
-![Sample Data](images/Sample Data.png)
+![Data Overview](images/Data%20Overview.png)
+![Sample Data](images/Sample%20Data.png)
 
 **Prediction History**
 - Complete prediction tracking
@@ -217,7 +217,7 @@ Subsequent runs will be much faster as the model is loaded from disk.
 
 ## Model Details
 
-![Model Information](images/Model Information.png)
+![Model Information](images/Model%20Information.png)
 
 ### Performance Metrics
 
