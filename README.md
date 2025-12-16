@@ -362,7 +362,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Author
 
-**Dhanush**  
+**Dhanushkumar Jayakumar Vasuki**  
 - GitHub: [@Dhanush010](https://github.com/Dhanush010)
 
 **Vedant Pradhan**  
