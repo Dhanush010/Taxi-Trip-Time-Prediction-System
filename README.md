@@ -367,7 +367,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 **Vedant Pradhan**  
 - GitHub: [@Vedant0703](https://github.com/Vedant0703)
-- 
+  
 - Project Link: [https://github.com/Dhanush010/Taxi-Trip-Time-Prediction-System](https://github.com/Dhanush010/Taxi-Trip-Time-Prediction-System)
 
 ---
